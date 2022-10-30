@@ -14,6 +14,16 @@ export class RecipesListComponent implements OnInit {
       'This is simple recipe',
       'https://therecipecritic.com/wp-content/uploads/2021/03/bakedrigatoni-368x463.jpg'
     ),
+    new Recipe(
+      'A Test Recipe',
+      'This is simple recipe',
+      'https://therecipecritic.com/wp-content/uploads/2021/03/bakedrigatoni-368x463.jpg'
+    ),
+    new Recipe(
+      'A Test Recipe',
+      'This is simple recipe',
+      'https://therecipecritic.com/wp-content/uploads/2021/03/bakedrigatoni-368x463.jpg'
+    ),
   ];
   constructor() {}
 
